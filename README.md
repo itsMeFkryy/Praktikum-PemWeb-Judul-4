@@ -1,7 +1,7 @@
 # Praktikum-PemWeb-Judul-4
 
-Nama : Alfikri Deo Putra
-NPM  : 2315061075
+- Nama : Alfikri Deo Putra
+- NPM  : 2315061075
 
 # 📒 Sistem Manajemen Kontak Sederhana
 
